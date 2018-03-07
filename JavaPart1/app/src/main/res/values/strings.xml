@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sample Java Code</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="large_text">
+        "This app is just a sample of the types of Android components I have experience implementing.\n\n"
+        "-> Scroll from the side ->\n\n"
+        "^ Scroll up ^\n\n"
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
